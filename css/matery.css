@@ -34,11 +34,16 @@
 }
 
 body {
-    background-color: #eaeaea;
+    cursor: url(cursor.sug),auto;
+    background: linear-gradient(60deg,rgba(141, 99, 255, 0.5)5%, rgba(255, 73, 73, 0.5)90%);
+    background-attachment: fixed;
+    margin: 0;
+    color: #7F95D1;
+    /* background-color: #eaeaea;
     margin: 0;
     color: #34495e;
     overflow-x: hidden;
-    overflow-y: auto;
+    overflow-y: auto; */
 }
 
 h1 {
