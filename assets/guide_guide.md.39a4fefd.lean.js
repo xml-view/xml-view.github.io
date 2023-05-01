@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,O as l}from"./chunks/framework.35afb277.js";const A=JSON.parse('{"title":"组件开发流程","description":"","frontmatter":{},"headers":[],"relativePath":"guide/guide.md"}'),o={name:"guide/guide.md"},p=l("",20),e=[p];function t(c,r,D,y,F,i){return a(),n("div",null,e)}const u=s(o,[["render",t]]);export{A as __pageData,u as default};
